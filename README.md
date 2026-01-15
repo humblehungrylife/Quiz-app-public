@@ -1,8 +1,7 @@
 # Quiz App – IT & Cybersecurity Learning
 
 🚀 **Live Demo**
-👉 https://ytvhfy-5173.csb.app/
-
+👉https://quiz-app-seven-eosin-63.vercel.app/
 ---
 
 ## Overview
